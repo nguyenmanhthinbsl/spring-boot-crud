@@ -1,4 +1,4 @@
-# spring-boot-crud-restaurant
+# spring-boot-API-restaurant
 ### personal project 
 List of thing:
 - CRUD entity
