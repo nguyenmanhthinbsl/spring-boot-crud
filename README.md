@@ -1,5 +1,4 @@
 # spring-boot-API-restaurant
-### personal project 
 Func list:
 - CRUD entity
 - Login
