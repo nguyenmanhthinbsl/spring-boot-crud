@@ -1,6 +1,6 @@
 # spring-boot-API-restaurant
 ### personal project 
-List of thing:
+Func list:
 - CRUD entity
 - Login
 - Registration
